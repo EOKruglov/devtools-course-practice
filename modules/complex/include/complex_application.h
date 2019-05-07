@@ -1,9 +1,9 @@
 // Copyright 2019 Kruglov Yegor
 
+#include <string>
+
 #ifndef MODULES_COMPLEX_INCLUDE_COMPLEX_APPLICATION_H_
 #define MODULES_COMPLEX_INCLUDE_COMPLEX_APPLICATION_H_
-
-#include <string>
 
 class ComplexApplication {
 public:

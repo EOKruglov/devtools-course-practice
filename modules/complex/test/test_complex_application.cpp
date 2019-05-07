@@ -1,6 +1,6 @@
 // Copyright 2019 Kruglov Yegor
 
-#include "gtest\gtest.h"
+#include <gtest/gtest.h>
 
 #include <string>
 #include <vector>
